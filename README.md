@@ -1,6 +1,6 @@
 ## Olá, me chamo Matheus! 👋
 
-- 📫 Estudo Ciências da Computação na Universidade Estadual do Oeste do Paraná 
+- 📫 Estudo Ciência da Computação na Universidade Estadual do Oeste do Paraná (UNIOESTE)
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <a href="https://github.com/prokow">
