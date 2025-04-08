@@ -4,10 +4,10 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <a href="https://github.com/prokow">
-    <img loading="lazy" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prokow&layout=compact&langs_count=7&theme=tokyonight_light" alt="Top linguagens usadas"/>
+    <img loading="lazy" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prokow&layout=compact&langs_count=7&theme=midnight_purple" alt="Top linguagens usadas"/>
   </a>
   <a href="https://github.com/prokow">
-    <img loading="lazy" height="180px" src="https://github-readme-stats.vercel.app/api?username=prokow&show_icons=true&theme=tokyonight_light&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+    <img loading="lazy" height="180px" src="https://github-readme-stats.vercel.app/api?username=prokow&show_icons=true&theme=midnight_purple&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
   </a>
 </div>
 
