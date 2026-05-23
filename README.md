@@ -26,14 +26,10 @@
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <a href="https://github.com/prokow">
-    <img loading="lazy" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prokow&layout=compact&langs_count=7&theme=midnight-purple" alt="Top linguagens usadas"/>
-  </a>
-  <a href="https://github.com/prokow">
-    <img loading="lazy" height="180px" src="https://github-readme-stats.vercel.app/api?username=prokow&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-  </a>
-</div>
+
+[![Matheus GitHub stats](https://github-readme-stats-sooty-xi-86.vercel.app/api?username=prokow&hide=contribs,stars&theme=dracula&show_icons=true&include_all_commits=true)](https://github.com/hiroshimorowaka/)
+![Matheus GitHub top langs](https://github-readme-stats-sooty-xi-86.vercel.app/api/top-langs/?username=prokow&layout=compact&langs_count=8&theme=onedark&hide=css)
+
 
 <br>
 
